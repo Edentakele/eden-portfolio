@@ -20,8 +20,8 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Eden Takele Abtew",
-  title: "Hi all, I'm Eden Takele Abtew",
+  username: "Eden Takele",
+  title: "Hi all, I'm Eden Takele",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
